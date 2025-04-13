@@ -1,0 +1,30 @@
+return {
+	Name = "Nebula",
+	Accent = Color3.fromRGB(130, 215, 255),
+
+	AcrylicMain = Color3.fromRGB(20, 22, 30),
+	AcrylicBorder = Color3.fromRGB(45, 50, 60),
+	AcrylicGradient = ColorSequence.new(Color3.fromRGB(26, 28, 38), Color3.fromRGB(14, 16, 24)),
+	AcrylicNoise = 0.91,
+
+	TitleBarLine = Color3.fromRGB(60, 65, 75),
+	Tab = Color3.fromRGB(90, 95, 110),
+
+	Element = Color3.fromRGB(36, 39, 50),
+	ElementBorder = Color3.fromRGB(22, 24, 30),
+	InElementBorder = Color3.fromRGB(55, 60, 75),
+	ElementTransparency = 0.78,
+
+	DropdownFrame = Color3.fromRGB(140, 145, 170),
+	DropdownHolder = Color3.fromRGB(30, 33, 42),
+	DropdownBorder = Color3.fromRGB(20, 22, 30),
+
+	Dialog = Color3.fromRGB(32, 35, 44),
+	DialogHolder = Color3.fromRGB(24, 26, 34),
+	DialogHolderLine = Color3.fromRGB(18, 20, 26),
+	DialogButton = Color3.fromRGB(40, 44, 56),
+	DialogButtonBorder = Color3.fromRGB(65, 70, 85),
+	DialogBorder = Color3.fromRGB(48, 52, 64),
+	DialogInput = Color3.fromRGB(36, 39, 50),
+	DialogInputLine = Color3.fromRGB(130, 215, 255),
+}
